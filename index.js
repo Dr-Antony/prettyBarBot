@@ -3,9 +3,9 @@ const TelegramBot = require('node-telegram-bot-api')
 
 
 const { questions, questionTwo, endTest } = require('./textOfQuestions')
-const {token} = require('./token')
 
 
+const token = '5977607650:AAHPzi1LYzVV_4Vhb_2OlXnmPoy-W-9cnck';
 
 
 
